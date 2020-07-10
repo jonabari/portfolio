@@ -1,2 +1,2 @@
-# portfolio
-Personal portfolio and online CV
+# porfolioJB
+For Jona Portfolio
